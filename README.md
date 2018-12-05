@@ -30,7 +30,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com)
 
 ```bash
 # Clone these two repositories
-$ git clone https://github.com/samashtar/note-app-front-end/
+$ git clone https://github.com/samashtar/noted/
 
 ## and clone this back-end
 $ git clone
@@ -49,7 +49,7 @@ $ rails db:seed
 $ rails s
 
 #now cd into the front end and open index.html
-$ cd note-app-front-end
+$ cd noted
 #
 $ open index.html
 ```
