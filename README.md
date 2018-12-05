@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="./assets/main.png" ></a>
+  <img src="./assets/main.png" >
   <br>
 NOTED  
 <br>
@@ -58,7 +58,7 @@ $ open index.html
 
 <h3 align="center">
 Create A Note  <br>
-  <a href=""><img src="./assets/newnote.png" ></a>
+  <img src="./assets/newnote.png" >
   <br>
 <br>
 </h3>
@@ -67,14 +67,14 @@ Create A Note  <br>
 <h3 align="center">
 Search Function 
   <br>
-  <a href=""><img src="./assets/search.png" ></a>
+  <img src="./assets/search.png" >
   <br>
 <br>
 </h3>
 
 <h3 align="center">
 Edit A Note  <br>
-  <a href=""><img src="./assets/edit.png" ></a>
+  <img src="./assets/edit.png" >
   <br>
 <br>
 </h3>
