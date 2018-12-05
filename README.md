@@ -82,4 +82,5 @@ Edit A Note  <br>
 
 ---
 
-> GitHub [@samashtar](https://github.com/samashtar/) &nbsp;&middot;&nbsp;
+> Collaboration
+> [@samashtar](https://github.com/samashtar/) [@KSriki](https://github.com/KSriki/note-app-front-end)
