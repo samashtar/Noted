@@ -1,5 +1,5 @@
 class Adapter {
-
+        // fetch all notes 
     static fetchNotes(){
 
         const url = "http://localhost:3000/notes";
@@ -8,7 +8,7 @@ class Adapter {
 
 
     }
-
+        // post a note 
     static fetchPostNotes(note){
         const url = "http://localhost:3000/notes";
         return fetch(url,{
@@ -22,7 +22,7 @@ class Adapter {
         .then(resp => resp.json())
 
     }
-
+        // patch a note
     static PatchNote(note){
       
       const url = `http://localhost:3000/notes/${note.id}`
@@ -36,14 +36,14 @@ class Adapter {
       })
       .then(resp => resp.json())
     }
-
+    // delete a note
     static DeleteNote(note){
       const url = `http://localhost:3000/notes/${note.id}`
       return fetch(url, {
         method: "DELETE"
       })
     }
-
+    // edit a day
     static PostDay(day){
         const url = "http://localhost:3000/days";
         return fetch(url,{
@@ -56,7 +56,7 @@ class Adapter {
         })
         .then(resp => resp.json())
     }
-
+    // fetch all types
     static fetchTypes(){
 
         const url = "http://localhost:3000/types";
