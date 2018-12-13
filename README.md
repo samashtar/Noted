@@ -14,6 +14,8 @@ NOTED
   <a href="#images">Images</a> •
 </p>
 
+<a href="https://youtu.be/Z5gGUgQNqwM">Watch The Demo Video!</a>
+
 ## Key Features
 
 - Notes - you can create edit, and delete a note.
